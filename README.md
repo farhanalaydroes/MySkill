@@ -9,19 +9,30 @@
   Repositori ini berisi tentang hasil pembelajaran saya selama mengikuti kegiatan Intensive Bootcamp : Business Intelligence dari My Skill.
 </p>
 
+<details><summary>Portofolio Dashboard</summary>
 
 <p align="center">
-  <a href='https://www.linkedin.com/in/farhanalaydroes/'><img src="README/Dashboard.png"></a>
+  <a href='https://datastudio.google.com/reporting/4467de31-564e-411a-a800-ab062ba8fe73/page/LYhlC'><img src="README/Dashboard.png"></a>
 </p> 
 
 <p align="center">
-  Repositori ini berisi tentang hasil pembelajaran saya selama mengikuti kegiatan trial Data Science dari Rakamin Academy.
+  Dashboard Diatas berisi informasi terkait kondisi performa keseluruhan dari perusahaan telekomunikasi tanpa di filter.
 </p>
+  
+<p align="center">
+  <a href='https://datastudio.google.com/reporting/4467de31-564e-411a-a800-ab062ba8fe73/page/LYhlC'><img src="README/Dashboard.png"></a>
+</p> 
 
-
+<p align="center">
+  Dashboard Diatas berisi informasi terkait kondisi performa keseluruhan dari perusahaan telekomunikasi dengan filter data hanya Pria.
+</p>
+  
+</details>
 
 <details><summary>Certificate of Completion</summary>
  
 <p align="center">
   <a href='https://www.linkedin.com/in/farhanalaydroes/'><img src="README/Sertifikat.png"></a>
 </p> 
+  
+ </details>
