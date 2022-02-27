@@ -6,7 +6,7 @@
 <h1 align="center">My Skill Intensive Bootcamp : Business Intelligence </h1>
 
 <p align="center">
-  Repositori ini berisi tentang hasil pembelajaran saya selama mengikuti kegiatan Intensive Bootcamp : Business Intelligence dari My Skill.
+  Repositori ini berisi tentang hasil pembelajaran saya selama mengikuti kegiatan <strong> Intensive Bootcamp : Business Intelligence </strong> dari <strong>My Skill</strong>.
 </p>
 
 <details><summary>Portofolio Dashboard</summary>
@@ -20,11 +20,23 @@
 </p>
   
 <p align="center">
-  <a href='https://datastudio.google.com/reporting/4467de31-564e-411a-a800-ab062ba8fe73/page/LYhlC'><img src="README/Dashboard.png"></a>
+  <a href='https://datastudio.google.com/reporting/4467de31-564e-411a-a800-ab062ba8fe73/page/LYhlC'><img src="README/Dashboard Male.png"></a>
 </p> 
 
 <p align="center">
   Dashboard Diatas berisi informasi terkait kondisi performa keseluruhan dari perusahaan telekomunikasi dengan filter data hanya Pria.
+</p>
+  
+<p align="center">
+  <a href='https://datastudio.google.com/reporting/4467de31-564e-411a-a800-ab062ba8fe73/page/LYhlC'><img src="README/Dashboard Date.png"></a>
+</p> 
+
+<p align="center">
+  Dashboard Diatas berisi informasi terkait kondisi performa keseluruhan dari perusahaan telekomunikasi dengan filter data di tahun sebelumnya.
+</p>
+  
+ <p align="justify">
+  <strong> nb : link data studio bisa di akses dengan klik gambar dashboard</strong>.
 </p>
   
 </details>
