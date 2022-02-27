@@ -6,7 +6,7 @@
 <h1 align="center">My Skill Intensive Bootcamp : Business Intelligence </h1>
 
 <p align="center">
-  Repositori ini berisi tentang hasil pembelajaran saya selama mengikuti kegiatan trial Data Science dari Rakamin Academy.
+  Repositori ini berisi tentang hasil pembelajaran saya selama mengikuti kegiatan Intensive Bootcamp : Business Intelligence dari My Skill.
 </p>
 
 
