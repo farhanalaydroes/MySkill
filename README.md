@@ -36,8 +36,9 @@
 </p>
   
  <p align="justify">
-  <strong> nb : link data studio bisa di akses dengan klik gambar dashboard</strong>.
-</p>
+  <strong> nb : link untuk Google Data Studio diatas bisa diakses dengan klik link dibawah</p>
+   
+  [Dashboard Google Data Studio](https://datastudio.google.com/reporting/4467de31-564e-411a-a800-ab062ba8fe73/page/LYhlC)
   
 </details>
 
