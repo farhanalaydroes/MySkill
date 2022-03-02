@@ -9,8 +9,13 @@
   Repositori ini berisi tentang hasil pembelajaran saya selama mengikuti kegiatan <strong> Intensive Bootcamp : Business Intelligence </strong> dari <strong>My Skill</strong>.
 </p>
 
+
 <p align="justify">
-  Source Data : My Skill Intensive Bootcamp : Business Intelligence
+  Tools Visualisasi : <strong>Google Data Studio</strong>
+</p>
+
+<p align="justify">
+  Source Data : <strong>My Skill Intensive Bootcamp - Business Intelligence</strong>
 </p>
 
 <details><summary>Portofolio Dashboard</summary>
