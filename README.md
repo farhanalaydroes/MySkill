@@ -13,8 +13,8 @@
 <p align="justify">
   Tools Visualisasi :
 </p>
+<a href='https://datastudio.google.com/reporting/4467de31-564e-411a-a800-ab062ba8fe73'><img src="README/datastudiologo.png"></a>
 
-<a>[Google Data Studio](https://datastudio.google.com/reporting/4467de31-564e-411a-a800-ab062ba8fe73) </a>
 
 <p align="justify">
   Source Data : 
