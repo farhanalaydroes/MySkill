@@ -11,12 +11,16 @@
 
 
 <p align="justify">
-  Tools Visualisasi : <strong>Google Data Studio</strong>
+  Tools Visualisasi :
 </p>
 
+<a> <strong>Google Data Studio</strong> </a>
+
 <p align="justify">
-  Source Data : <strong>My Skill Intensive Bootcamp - Business Intelligence</strong>
+  Source Data : 
 </p>
+
+<a> <strong>My Skill Intensive Bootcamp - Business Intelligence</strong> </a>
 
 <details><summary>Portofolio Dashboard</summary>
 
