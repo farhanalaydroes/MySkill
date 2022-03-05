@@ -14,7 +14,7 @@
   Tools Visualisasi :
 </p>
 
-<a> <strong>Google Data Studio</strong> </a>
+<a>[Google Data Studio](https://datastudio.google.com/reporting/4467de31-564e-411a-a800-ab062ba8fe73) </a>
 
 <p align="justify">
   Source Data : 
@@ -47,12 +47,7 @@
 <p align="center">
   Dashboard Diatas berisi informasi terkait kondisi performa keseluruhan dari perusahaan telekomunikasi dengan filter data di tahun sebelumnya.
 </p>
-  
- <p align="justify">
-  <strong> nb : link untuk Google Data Studio diatas bisa diakses dengan klik link dibawah</p>
-   
-  [Dashboard Google Data Studio](https://datastudio.google.com/reporting/4467de31-564e-411a-a800-ab062ba8fe73)
-  
+ 
 </details>
 
 <details><summary>Certificate of Completion</summary>
