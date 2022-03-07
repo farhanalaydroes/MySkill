@@ -20,7 +20,7 @@
   Source Data : 
 </p>
 
-<a> <strong>My Skill Intensive Bootcamp - Business Intelligence</strong> </a>
+<a> <strong>My Skill</strong> </a>
 
 <details><summary>Portofolio Dashboard</summary>
 
