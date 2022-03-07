@@ -57,3 +57,6 @@
 </p> 
   
  </details>
+<p align="justify">
+  Notes : Link menuju Google Data Studio bisa klik logo Google Data Studio di atas.
+</p>
